@@ -1,0 +1,24 @@
+﻿  AppDelegate.cpp
+  lua_debugger.c
+  RuntimeLuaImpl.cpp
+  main.cpp
+  SimulatorWin.cpp
+  stdafx.cpp
+D:\vs2015\VC\include\limits(210): warning C4577: 在未指定异常处理模式的情况下使用了 "noexcept"；不一定会在异常时终止。指定 /EHsc (编译源文件 ..\Classes\ide-support\lua_debugger.c)
+D:\vs2015\VC\include\limits(210): warning C4577: 在未指定异常处理模式的情况下使用了 "noexcept"；不一定会在异常时终止。指定 /EHsc (编译源文件 stdafx.cpp)
+D:\vs2015\VC\include\xlocale(341): warning C4530: 使用了 C++ 异常处理程序，但未启用展开语义。请指定 /EHsc (编译源文件 main.cpp)
+C:\Program Files (x86)\Microsoft SDKs\Windows\v7.1A\include\Shlobj.h(1151): warning C4091: “typedef ”: 没有声明变量时忽略“tagGPFIDL_FLAGS”的左侧 (编译源文件 SimulatorWin.cpp)
+D:\vs2015\VC\include\xlocale(341): warning C4530: 使用了 C++ 异常处理程序，但未启用展开语义。请指定 /EHsc (编译源文件 ..\Classes\AppDelegate.cpp)
+D:\vs2015\VC\include\xlocale(341): warning C4530: 使用了 C++ 异常处理程序，但未启用展开语义。请指定 /EHsc (编译源文件 ..\Classes\ide-support\RuntimeLuaImpl.cpp)
+D:\vs2015\VC\include\xlocale(341): warning C4530: 使用了 C++ 异常处理程序，但未启用展开语义。请指定 /EHsc (编译源文件 SimulatorWin.cpp)
+..\Classes\AppDelegate.cpp(57): warning C4305: “参数”: 从“double”到“float”截断
+SimulatorWin.cpp(351): warning C4305: “参数”: 从“double”到“float”截断
+D:\vs2015\VC\include\cmath(75): warning C4577: 在未指定异常处理模式的情况下使用了 "noexcept"；不一定会在异常时终止。指定 /EHsc (编译源文件 main.cpp)
+D:\vs2015\VC\include\cmath(75): warning C4577: 在未指定异常处理模式的情况下使用了 "noexcept"；不一定会在异常时终止。指定 /EHsc (编译源文件 ..\Classes\ide-support\RuntimeLuaImpl.cpp)
+D:\vs2015\VC\include\cmath(75): warning C4577: 在未指定异常处理模式的情况下使用了 "noexcept"；不一定会在异常时终止。指定 /EHsc (编译源文件 ..\Classes\AppDelegate.cpp)
+D:\vs2015\VC\include\cmath(75): warning C4577: 在未指定异常处理模式的情况下使用了 "noexcept"；不一定会在异常时终止。指定 /EHsc (编译源文件 SimulatorWin.cpp)
+    正在创建库 E:\testGame\mj_client-master\frameworks\runtime-src\proj.win32\Release.win32\mj_client.lib 和对象 E:\testGame\mj_client-master\frameworks\runtime-src\proj.win32\Release.win32\mj_client.exp
+  mj_client.vcxproj -> E:\testGame\mj_client-master\frameworks\runtime-src\proj.win32\Release.win32\mj_client.exe
+  mj_client.vcxproj -> E:\testGame\mj_client-master\frameworks\runtime-src\proj.win32\Release.win32\mj_client.pdb (Full PDB)
+  复制了 14 个文件
+  复制了 1 个文件
